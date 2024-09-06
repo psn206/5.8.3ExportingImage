@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPI\ExportingImage.dll"</Assembly>
+		<AddInId>218BA75D-324D-45CA-9174-FCBD3B343DE6</AddInId>
+		<FullClassName>ExportingImage.Main</FullClassName>
+		<VendorId>ADSC</VendorId>
+		<Text>Экспорт в изображение</Text>	
+	</AddIn>
+</RevitAddIns>
+
